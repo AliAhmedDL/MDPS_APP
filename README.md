@@ -14,6 +14,13 @@ The diseases addressed in this project include diabetes, Parkinson's disease, an
 This multiple disease prediction system incorporates three built-in models to calculate the probability of an individual having a specific disease. 
 It compares three distinct logistic regression models to determine the most effective model for each disease prediction.
 
+## Illustraion
+
+We trained three distinct machine learning models for each prediction task and assessed their performance by comparing them using the F1 score metric. 
+The models utilized were Support Vector Machine (SVM), Logistic Regression, and XGBoost Classifier.
+The models were saved and loaded using pickle library.
+
+
 ## Features
 
 - Machine learning model for Diabetes
@@ -22,7 +29,11 @@ It compares three distinct logistic regression models to determine the most effe
 
 ## Installation
 
-Guide on how to install and set up your project. Include any dependencies that need to be installed and how to install them. Use code blocks for commands when necessary.
-
+You can install Stremlit library using this line of code.
 ```bash
-npm install
+pip install streamlit
+
+You should have agithub accout to signup on streamlit platform.
+
+
+
