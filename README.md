@@ -6,6 +6,7 @@ The diseases addressed in this project include diabetes, Parkinson's disease, an
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Illustration](#illustration)
 - [Installation](#installation)
 
 ## Introduction
@@ -18,9 +19,6 @@ It compares three distinct logistic regression models to determine the most effe
 - Machine learning model for Diabetes
 - Machine learning model for Heart Disease
 - Machine learning model for Parkinson's Disease
-
-
-- ...
 
 ## Installation
 
