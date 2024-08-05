@@ -34,8 +34,10 @@ You can install Stremlit library using this line of code.
 pip install streamlit
 ```
 You should have agithub accout to signup on streamlit platform.
+
 This should be the user interface for your application.
-![App Picture]([relative/path/to/image.jpg](https://github.com/AliAhmedDL/MDPS_APP/edit/main/README.md))
+
+![App Picture]([relative/path/to/image.jpg]
 
 
 
