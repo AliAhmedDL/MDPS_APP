@@ -15,10 +15,11 @@ It compares three distinct logistic regression models to determine the most effe
 
 ## Features
 
-List the key features of your project. You can use bullet points for this section.
+- Machine learning model for Diabetes
+- Machine learning model for Heart Disease
+- Machine learning model for Parkinson's Disease
 
-- Feature 1
-- Feature 2
+
 - ...
 
 ## Installation
