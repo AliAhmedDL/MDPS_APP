@@ -38,7 +38,7 @@ You should have agithub accout to signup on streamlit platform.
 This should be the user interface for your application.
 
 <center>
-  <img src="[relative/path/to/image.jpg](https://github.com/AliAhmedDL/MDPS_APP/edit/main/README.md)" alt="App Picture">
+  <img src="image_2024-08-05_180809016.png" alt="App Picture">
 </center>
 
 
