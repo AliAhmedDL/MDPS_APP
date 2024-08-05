@@ -33,6 +33,7 @@ You can install Stremlit library using this line of code.
 ```bash
 pip install streamlit
 
+
 You should have agithub accout to signup on streamlit platform.
 
 
