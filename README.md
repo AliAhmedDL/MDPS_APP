@@ -1,19 +1,17 @@
-# Project Title
+# Multiple Disease Prediction System Application
 
-Brief description of your project.
-
+This project involves creating an application with the Streamlit library to predict whether an individual has a specific disease. 
+The diseases addressed in this project include diabetes, Parkinson's disease, and heart disease.
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
-Provide a brief overview of your project, what problem it solves, and its key features.
+This multiple disease prediction system incorporates three built-in models to calculate the probability of an individual having a specific disease. 
+It compares three distinct logistic regression models to determine the most effective model for each disease prediction.
 
 ## Features
 
